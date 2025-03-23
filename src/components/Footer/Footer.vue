@@ -24,7 +24,7 @@
       </section>
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
-          <a title="打赏站长" target="_blank" href="/reward.webp">
+          <a title="打赏站长" target="_blank" href="https://qongqi.top/skm/sk.png">
             <img class="w-8" src="https://qongqi.top/skm/sk.png" />
           </a>
           <a title="故事与你博客" target="_blank" href="https://qongqi.top/">
