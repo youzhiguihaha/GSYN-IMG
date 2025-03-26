@@ -5,7 +5,14 @@
       <AlertDescription class="p-0 text-xs sm:text-sm">
         <p class="pt-2">无限图片储存数量，你可以上传不限数量的图片！</p>
         <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
-        <p>我的博客<a href="https://qongqi.top/">热烈</a>致力于为用户提供稳定的永久存储服务，专注分享免费、绿色、无毒无广的实用软件，炽烈如火，激情满怀!</p>
+        <p>
+  我的博客：
+  <a href="https://qongqi.top/" style="font-size: 1.2em; color: #e60000; text-decoration: none;">
+    <img src="https://pic.imgdb.cn/item/6648a1a4d9c307b7e9d298bb.png" alt="热烈 Logo" style="height: 24px; margin-right: 5px; vertical-align: middle;">
+    热烈
+  </a>
+  专注分享免费、绿色、无毒无广的实用软件，欢迎访问。
+</p>
         <p>致力于为用户提供稳定的永久存储服务。</p>
         <p style="font-weight: bold">开源地址: <a class="text-[#0969da]" href="https://github.com/uxiaohan/ZYCS-IMG" target="_blank">ZYCS-IMG</a></p>
       </AlertDescription>
